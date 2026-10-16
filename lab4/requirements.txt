@@ -1,0 +1,10 @@
+pyfiglet
+qrcode
+Faker
+emoji
+humanize
+pytz
+python-slugify
+tabulate
+Babel
+wikipedia
